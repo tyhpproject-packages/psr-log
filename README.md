@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/psr-log
 
-Tyhp type definitions for `psr/log` `2.0.0`.
+Tyhp type definitions for `psr/log` `3.0.2`.
 
 ```bash
-composer require --dev tyhpdef/psr-log:2.0.0
+composer require --dev tyhpdef/psr-log:3.0.2
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/psr-log-impl` (type files).

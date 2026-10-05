@@ -1,15 +1,15 @@
 {
     "name": "tyhpdef/psr-log",
-    "description": "Tyhp type definitions for psr/log 2.0.0.",
+    "description": "Tyhp type definitions for psr/log 3.0.2.",
     "type": "metapackage",
     "license": "Apache-2.0",
-    "version": "2.0.0",
+    "version": "3.0.2",
     "keywords": [
         "dev",
         "static analysis"
     ],
     "require": {
-        "tyhpdef/psr-log-impl": "~2.0.0.0"
+        "tyhpdef/psr-log-impl": "~3.0.2.0"
     },
     "extra": {
         "tyhp": {
